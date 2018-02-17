@@ -115,7 +115,7 @@ def main():
         print('gameName: ' + game_name + 'in ' + save_path)
 
     gameInputPacket.iNumPlayers = num_participants
-    server_manager.download_files()
+    # server_manager.download_files()
 
 
     num_team_0 = 0
